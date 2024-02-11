@@ -41,6 +41,7 @@ Filter result by condition
 
 Verify Filter Results
     Element Should Contain  //*[@id="mainContent"]/div/div[5]/label/span  Quantity
+    Sleep    2s
 
 End Test
     Close Browser
